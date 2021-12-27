@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "johnsoncodehk.vscode-typescript-vue-plugin"
+  ]
+}
